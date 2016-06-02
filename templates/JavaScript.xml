@@ -5,4 +5,10 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="perf" value="let t0 = performance.now();&#10;$SOME_FUNCTION$;&#10;let t1 = performance.now();&#10;console.log(&quot;Call to $SOME_FUNCTION$ took &quot; + (t1 - t0) + &quot; milliseconds.&quot;)" description="measure performance" toReformat="true" toShortenFQNames="true">
+    <variable name="SOME_FUNCTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
