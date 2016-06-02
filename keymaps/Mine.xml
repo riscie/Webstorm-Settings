@@ -24,6 +24,11 @@
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+    <keyboard-shortcut first-keystroke="ctrl 7" />
+  </action>
   <action id="Editor Cut">
     <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
@@ -46,6 +51,7 @@
   </action>
   <action id="FileChooser.TogglePathShowing" />
   <action id="Find" />
+  <action id="GotoBookmark7" />
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
   <action id="GotoFile">

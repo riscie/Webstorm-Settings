@@ -1,0 +1,8 @@
+<templateSet group="JavaScript">
+  <template name="cl" value="console.log($OBJ$);" description="console.log(...)" toReformat="true" toShortenFQNames="true">
+    <variable name="OBJ" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
