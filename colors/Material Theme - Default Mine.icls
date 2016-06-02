@@ -26,7 +26,6 @@
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="546e7a" />
     <option name="FILESTATUS_MERGED" value="65738e" />
     <option name="FILESTATUS_MODIFIED" value="80cbc4" />
-    <option name="FILESTATUS_NOT_CHANGED" value="" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
@@ -1288,7 +1287,8 @@
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffeb95" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="BACKGROUND" value="516b74" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="TYPEDEF">
