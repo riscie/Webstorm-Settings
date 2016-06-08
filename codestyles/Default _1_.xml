@@ -1,4 +1,7 @@
 <code_scheme name="Default (1)">
+  <JSON>
+    <option name="ARRAY_WRAPPING" value="0" />
+  </JSON>
   <TypeScriptCodeStyleSettings>
     <option name="SPACE_AFTER_TYPE_COLON" value="true" />
     <option name="IMPORTS_WRAP" value="0" />
