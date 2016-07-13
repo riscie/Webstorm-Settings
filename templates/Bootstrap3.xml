@@ -1,0 +1,8 @@
+<templateSet group="Bootstrap3">
+  <template name="glyphicon" value="&lt;span class=&quot;$glyphiconclass$&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;" toReformat="false" toShortenFQNames="true">
+    <variable name="glyphiconclass" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>
