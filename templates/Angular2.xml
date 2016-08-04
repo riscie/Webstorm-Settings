@@ -15,4 +15,10 @@
       <option name="HTML" value="true" />
     </context>
   </template>
+  <template name="ng2-translate" value="{{'$CONSTANT$' | translate}}" toReformat="false" toShortenFQNames="true">
+    <variable name="CONSTANT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
 </templateSet>

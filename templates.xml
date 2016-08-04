@@ -52,6 +52,10 @@
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="GoHiddenTemplate" />
+          <option name="key" value="go_lang_anonymous_struct" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="GoHiddenTemplate" />
           <option name="key" value="go_lang_var" />
         </TemplateKey>
         <TemplateKey>
