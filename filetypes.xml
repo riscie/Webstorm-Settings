@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="KorVersatz" type="TypeScript" />
       <mapping pattern="IAlert" type="TypeScript" />
+      <mapping pattern="BaseKorDia" type="TypeScript" />
       <mapping ext="model" type="TypeScript" />
     </extensionMap>
   </component>
