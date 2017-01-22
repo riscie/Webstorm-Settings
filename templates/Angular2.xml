@@ -3,16 +3,16 @@
     <variable name="ITEM" expression="" defaultValue="&quot;item&quot;" alwaysStopAt="true" />
     <variable name="LIST" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="HTML_TEXT" value="false" />
       <option name="HTML" value="true" />
+      <option name="HTML_TEXT" value="false" />
     </context>
   </template>
   <template name="ng2-ngFor-with-last" value="*ngFor=&quot;let $ITEM$ of $LIST$; let last = last&quot;" description="Angular2 ngFor" toReformat="false" toShortenFQNames="true">
     <variable name="ITEM" expression="" defaultValue="&quot;item&quot;" alwaysStopAt="true" />
     <variable name="LIST" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="HTML_TEXT" value="false" />
       <option name="HTML" value="true" />
+      <option name="HTML_TEXT" value="false" />
     </context>
   </template>
   <template name="translate" value="{{'$CONSTANT$' | translate}}" toReformat="false" toShortenFQNames="true">
