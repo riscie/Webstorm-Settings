@@ -5,6 +5,7 @@
       <mapping pattern="IAlert" type="TypeScript" />
       <mapping pattern="BaseKorDia" type="TypeScript" />
       <mapping ext="model" type="TypeScript" />
+      <mapping ext="config" type="XML" />
     </extensionMap>
   </component>
 </application>
