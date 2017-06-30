@@ -1,5 +1,6 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="JavaScript/Comments/Replace With C-Style Comment" />
+    <ignoreAction name="Flow JS/Specify variable type explicitly" />
   </component>
 </application>
