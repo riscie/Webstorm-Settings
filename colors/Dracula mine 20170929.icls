@@ -4,7 +4,7 @@
     <property name="created">2017-09-29T17:45:26</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.2.0.0</property>
-    <property name="modified">2017-10-10T18:33:34</property>
+    <property name="modified">2017-11-06T10:45:57</property>
     <property name="originalScheme">Dracula mine</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.3" />
@@ -1040,7 +1040,7 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="303040" />
+        <option name="BACKGROUND" value="7474a2" />
         <option name="ERROR_STRIPE_COLOR" value="ff5555" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
