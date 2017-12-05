@@ -21,4 +21,11 @@
       <option name="HTML" value="true" />
     </context>
   </template>
+  <template name="em" value="EventEmitter&lt;$ITEM$&gt; = new EventEmitter&lt;$ITEM$&gt;();" description="EventEmmiter" toReformat="false" toShortenFQNames="true">
+    <variable name="ITEM" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
