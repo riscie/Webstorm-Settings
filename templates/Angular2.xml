@@ -28,4 +28,10 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="pre" value="&lt;pre&gt;{{$ITEM$ | json}}&lt;/pre&gt;" description="&lt;pre&gt;somejson&lt;/pre&gt;" toReformat="false" toShortenFQNames="true">
+    <variable name="ITEM" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
 </templateSet>
