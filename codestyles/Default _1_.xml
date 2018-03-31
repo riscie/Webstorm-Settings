@@ -1,10 +1,11 @@
-<code_scheme name="Default (1)">
+<code_scheme name="Default (1)" version="173">
   <option name="RIGHT_MARGIN" value="250" />
   <JSON>
     <option name="ARRAY_WRAPPING" value="0" />
   </JSON>
   <TypeScriptCodeStyleSettings>
     <option name="IMPORTS_WRAP" value="0" />
+    <option name="SPACES_WITHIN_IMPORTS" value="true" />
   </TypeScriptCodeStyleSettings>
   <codeStyleSettings language="CoffeeScript">
     <indentOptions>
