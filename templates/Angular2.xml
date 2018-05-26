@@ -48,4 +48,9 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="navigate" value="this.router.navigate(['../../'], {relativeTo: this.activatedRoute});&#10;" description="Router navigation" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
