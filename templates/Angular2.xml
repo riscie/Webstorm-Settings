@@ -28,12 +28,6 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="pre" value="&lt;pre&gt;{{$ITEM$ | json}}&lt;/pre&gt;" description="&lt;pre&gt;somejson&lt;/pre&gt;" toReformat="false" toShortenFQNames="true">
-    <variable name="ITEM" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="HTML" value="true" />
-    </context>
-  </template>
   <template name="input" value="@Input() $ITEM$: $TYPE$;" description="@Input" toReformat="false" toShortenFQNames="true">
     <variable name="ITEM" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
@@ -51,6 +45,12 @@
   <template name="navigate" value="this.router.navigate(['../../'], {relativeTo: this.activatedRoute});&#10;" description="Router navigation" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="pre" value="&lt;pre&gt;{{$ITEM$ | json}}&lt;/pre&gt; " description="pre some JSON" toReformat="false" toShortenFQNames="true">
+    <variable name="ITEM" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
     </context>
   </template>
 </templateSet>
