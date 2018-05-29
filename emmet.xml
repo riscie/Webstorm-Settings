@@ -3,7 +3,7 @@
     <option name="cssEmmetEnabled" value="false" />
   </component>
   <component name="EmmetOptions">
-    <option name="emmetEnabled" value="false" />
+    <option name="previewEnabled" value="true" />
   </component>
   <component name="JsxEmmetOptions">
     <option name="emmetEnabled" value="false" />
