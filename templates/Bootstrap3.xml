@@ -7,6 +7,8 @@
   </template>
   <template name="button" value="&lt;button type=&quot;button&quot; class=&quot;btn btn-$buttontype$&quot;&gt;&lt;/button&gt;" description="bootstrap3 button" toReformat="false" toShortenFQNames="true">
     <variable name="buttontype" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="class" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="class" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="HTML" value="true" />
     </context>
